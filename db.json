@@ -1,6 +1,10 @@
 {
     "signup": [
-     
+        {
+            "id": "ff60",
+            "username": "alibaba",
+            "password": "12"
+          }
     ],
     "blogs": [
       {
